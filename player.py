@@ -9,4 +9,4 @@ st_player("https://soundcloud.com/imaginedragons/demons")
 
 
 st.title('Uber pickups in NYC')
-st.title("novo teste"")
+st.title("novo teste")
